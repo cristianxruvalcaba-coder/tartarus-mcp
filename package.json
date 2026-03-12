@@ -4,6 +4,7 @@
   "description": "Local-first MCP memory server. Persistent, searchable memory for any AI agent. Powered by @saluca/asphodel.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "type": "module",
   "bin": {
     "tartarus-mcp": "dist/index.js"
   },
