@@ -1,5 +1,11 @@
 # tartarus-mcp
 
+> **This project has moved to [saluca-labs](https://github.com/saluca-labs).** This repo is now maintained at [`saluca-labs/tartarus-mcp`](https://github.com/saluca-labs/tartarus-mcp). Please update your remotes:
+> ```bash
+> git remote set-url origin https://github.com/saluca-labs/tartarus-mcp.git
+> ```
+
+
 Local-first MCP memory server. Persistent, searchable memory for any AI agent.
 
 Powered by [@saluca/asphodel](https://www.npmjs.com/package/@saluca/asphodel). Zero cloud dependencies. SQLite-backed.
