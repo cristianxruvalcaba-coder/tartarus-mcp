@@ -55,4 +55,4 @@ Hash-chained audit trails, multi-tenant isolation, compliance controls, and team
 
 ## License
 
-Apache 2.0 — [Saluca LLC](https://saluca.com)
+FSL-1.1-Apache (converts to Apache 2.0 after two years) — see [LICENSE](./LICENSE). [Saluca LLC](https://saluca.com)
